@@ -64,7 +64,7 @@ slightly imbalanced dataset.
 
 ## Future Directions
 
-Aim to get a more records of patient data in order to make the model more robust.
+Aim to get more records of patient data in order to make the model more robust.
 
 ## Conclusion
 
